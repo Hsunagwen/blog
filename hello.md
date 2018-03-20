@@ -20,6 +20,7 @@
 ![jirengu.com](https://jirengu.com/addons/theme/stv1/_static/app/index-new/imgs/talk.png)
 
 1.hello
+
 2.world
 
 ```javascript
@@ -28,6 +29,6 @@ var b = 2
 ```
 
 |姓名|性别|
-|：--：|--|
+|:--:|--|
 |a|男|
 |b|女|
